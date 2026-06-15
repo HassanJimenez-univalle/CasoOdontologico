@@ -1,0 +1,22 @@
+REM INSERTING into CURSODB.TBL_PACIENTES
+SET DEFINE OFF;
+Insert into CURSODB.TBL_PACIENTES (ID_PACIENTE,NOMBRE,DNI,TELEFONO,CORREO) values ('1','Juan David Perez','100000001','3001234001','juan.perez@correo.com');
+Insert into CURSODB.TBL_PACIENTES (ID_PACIENTE,NOMBRE,DNI,TELEFONO,CORREO) values ('2','Maria Fernanda Gomez','100000002','3001234002','maria.gomez@correo.com');
+Insert into CURSODB.TBL_PACIENTES (ID_PACIENTE,NOMBRE,DNI,TELEFONO,CORREO) values ('3','Carlos Andres Ruiz','100000003','3001234003','carlos.ruiz@correo.com');
+Insert into CURSODB.TBL_PACIENTES (ID_PACIENTE,NOMBRE,DNI,TELEFONO,CORREO) values ('4','Ana Sofia Torres','100000004','3001234004','ana.torres@correo.com');
+Insert into CURSODB.TBL_PACIENTES (ID_PACIENTE,NOMBRE,DNI,TELEFONO,CORREO) values ('5','Luis Fernando Rojas','100000005','3001234005','luis.rojas@correo.com');
+Insert into CURSODB.TBL_PACIENTES (ID_PACIENTE,NOMBRE,DNI,TELEFONO,CORREO) values ('6','Paula Andrea Castro','100000006','3001234006','paula.castro@correo.com');
+Insert into CURSODB.TBL_PACIENTES (ID_PACIENTE,NOMBRE,DNI,TELEFONO,CORREO) values ('7','Andres Felipe Diaz','100000007','3001234007','andres.diaz@correo.com');
+Insert into CURSODB.TBL_PACIENTES (ID_PACIENTE,NOMBRE,DNI,TELEFONO,CORREO) values ('8','Sofia Valentina Vargas','100000008','3001234008','sofia.vargas@correo.com');
+Insert into CURSODB.TBL_PACIENTES (ID_PACIENTE,NOMBRE,DNI,TELEFONO,CORREO) values ('9','Jorge Enrique Martinez','100000009','3001234009','jorge.martinez@correo.com');
+Insert into CURSODB.TBL_PACIENTES (ID_PACIENTE,NOMBRE,DNI,TELEFONO,CORREO) values ('10','Natalia Herrera','100000010','3001234010','natalia.herrera@correo.com');
+Insert into CURSODB.TBL_PACIENTES (ID_PACIENTE,NOMBRE,DNI,TELEFONO,CORREO) values ('11','Ricardo Mendoza','100000011','3001234011','ricardo.mendoza@correo.com');
+Insert into CURSODB.TBL_PACIENTES (ID_PACIENTE,NOMBRE,DNI,TELEFONO,CORREO) values ('12','Valentina Salazar','100000012','3001234012','valentina.salazar@correo.com');
+Insert into CURSODB.TBL_PACIENTES (ID_PACIENTE,NOMBRE,DNI,TELEFONO,CORREO) values ('13','Camilo Gutierrez','100000013','3001234013','camilo.gutierrez@correo.com');
+Insert into CURSODB.TBL_PACIENTES (ID_PACIENTE,NOMBRE,DNI,TELEFONO,CORREO) values ('14','Daniela Moreno','100000014','3001234014','daniela.moreno@correo.com');
+Insert into CURSODB.TBL_PACIENTES (ID_PACIENTE,NOMBRE,DNI,TELEFONO,CORREO) values ('15','Felipe Cardona','100000015','3001234015','felipe.cardona@correo.com');
+Insert into CURSODB.TBL_PACIENTES (ID_PACIENTE,NOMBRE,DNI,TELEFONO,CORREO) values ('16','Laura Cristina Ramirez','100000016','3001234016','laura.ramirez@correo.com');
+Insert into CURSODB.TBL_PACIENTES (ID_PACIENTE,NOMBRE,DNI,TELEFONO,CORREO) values ('17','Miguel Angel Rodriguez','100000017','3001234017','miguel.rodriguez@correo.com');
+Insert into CURSODB.TBL_PACIENTES (ID_PACIENTE,NOMBRE,DNI,TELEFONO,CORREO) values ('18','Tatiana Jimenez','100000018','3001234018','tatiana.jimenez@correo.com');
+Insert into CURSODB.TBL_PACIENTES (ID_PACIENTE,NOMBRE,DNI,TELEFONO,CORREO) values ('19','Sebastian Lopez','100000019','3001234019','sebastian.lopez@correo.com');
+Insert into CURSODB.TBL_PACIENTES (ID_PACIENTE,NOMBRE,DNI,TELEFONO,CORREO) values ('20','Gabriela Restrepo','100000020','3001234020','gabriela.restrepo@correo.com');

@@ -1,0 +1,7 @@
+REM INSERTING into CURSODB.TBL_ESTADOS
+SET DEFINE OFF;
+Insert into CURSODB.TBL_ESTADOS (ID_ESTADOS,DESCRIPCION) values ('1','Confirmada');
+Insert into CURSODB.TBL_ESTADOS (ID_ESTADOS,DESCRIPCION) values ('2','Terminada');
+Insert into CURSODB.TBL_ESTADOS (ID_ESTADOS,DESCRIPCION) values ('3','En Espera');
+Insert into CURSODB.TBL_ESTADOS (ID_ESTADOS,DESCRIPCION) values ('5','No asistio');
+Insert into CURSODB.TBL_ESTADOS (ID_ESTADOS,DESCRIPCION) values ('4','Falta de pago');

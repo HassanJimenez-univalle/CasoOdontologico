@@ -1,0 +1,9 @@
+--------------------------------------------------------
+--  Constraints for Table TBL_CITAS
+--------------------------------------------------------
+
+  ALTER TABLE "CURSODB"."TBL_CITAS" MODIFY ("ID_CITA" NOT NULL ENABLE);
+  ALTER TABLE "CURSODB"."TBL_CITAS" MODIFY ("COSTO_TOTAL" NOT NULL ENABLE);
+  ALTER TABLE "CURSODB"."TBL_CITAS" MODIFY ("FECHA_HORA" NOT NULL ENABLE);
+  ALTER TABLE "CURSODB"."TBL_CITAS" ADD CONSTRAINT "PK_ID_CITA" PRIMARY KEY ("ID_CITA")
+  USING INDEX "CURSODB"."IDX_PK_ID_CITA"  ENABLE;

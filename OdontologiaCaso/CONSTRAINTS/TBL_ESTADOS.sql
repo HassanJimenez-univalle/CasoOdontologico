@@ -1,0 +1,8 @@
+--------------------------------------------------------
+--  Constraints for Table TBL_ESTADOS
+--------------------------------------------------------
+
+  ALTER TABLE "CURSODB"."TBL_ESTADOS" MODIFY ("ID_ESTADOS" NOT NULL ENABLE);
+  ALTER TABLE "CURSODB"."TBL_ESTADOS" MODIFY ("DESCRIPCION" NOT NULL ENABLE);
+  ALTER TABLE "CURSODB"."TBL_ESTADOS" ADD CONSTRAINT "PK_ID_ESTADOS" PRIMARY KEY ("ID_ESTADOS")
+  USING INDEX "CURSODB"."IDX_PK_ID_ESTADOS"  ENABLE;
